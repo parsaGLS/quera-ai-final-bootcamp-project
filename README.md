@@ -1,5 +1,5 @@
 # quera-ai-final-bootcamp-project
-Parsa Golestani
-Ali Kavyani
-Arian SeyedHariri
-Majid Daeinejad
+Parsa Golestani/n
+Ali Kavyani/n
+Arian SeyedHariri/n
+Majid Daeinejad/n
